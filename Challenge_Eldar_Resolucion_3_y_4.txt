@@ -1,0 +1,2 @@
+3-La consulta planteada en el punto 3 imprime 10 registos.
+4-La Funcion planteada en el punto 4 le falta un retorno porque no compila.
