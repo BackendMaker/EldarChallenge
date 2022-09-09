@@ -1,0 +1,4 @@
+{
+    "cardBrand": "AMEX",
+    "amount": 34530.0
+}
